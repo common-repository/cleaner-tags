@@ -1,0 +1,24 @@
+#cleaner-tags .cleanertags {
+ list-style:none !important;
+}
+
+.cleanertags li {
+ padding:2px 0px;
+}
+
+.cleanertags li a {
+ padding-left:5px;	
+}
+
+.cleanertags li:hover {
+ background:rgba(255,255,255,0.5);
+}
+
+.cleanertags  .count {
+ background:rgba(255,255,255,0.3);
+ float:left;
+ padding:0px 5px;
+ -webkit-border-radius:3px;
+ -moz-border-radius:3px;
+ border-radius:3px;
+}
